@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Srivarsha\\Desktop\\solidus-aid-flow\\contracts\\UniversalIdentityRegistry.sol": {
+      "lastModificationDate": 1760900112851,
+      "contentHash": "c86e28b3272a555d91c1a3f3bf49958f",
+      "sourceName": "contracts/UniversalIdentityRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "UniversalIdentityRegistry"
+      ]
+    }
+  }
+}
